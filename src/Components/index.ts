@@ -1,0 +1,8 @@
+export { default as Nav } from './Nav'
+export { default as WatchCard } from './WatchCard'
+export { default as PopularProductsCard } from './PopularProductsCard'
+export { default as ServiceCard } from './ServiceCard'
+export { default as CustomerReviewsCard } from './CustomerReviewsCard'
+export { default as Button } from './Button'
+export { default as BoxVideo } from './BoxVideo'
+export { default as DropDownMenu } from './DropDownMenu'
