@@ -1,27 +1,20 @@
-# React + TypeScript + Vite
+# `Rolex`
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React TypeScript website for Rolex, a brand known for its luxury watches. The website showcases Rolex's popular products,
+emphasizes the super quality of their watches, presents special collections, and includes customer testimonials.
 
-Currently, two official plugins are available:
+### `Sections`
+- Hero Section**: Introduces the brand and its watches.
+- Our Popular Products**: Highlights popular Rolex watch models.
+- Super Quality Watch**: Emphasizes Rolex watch quality and craftsmanship.
+- Our Special Box**: Showcases limited edition collections and special offers.
+- What Our Customers Say**: Features customer testimonials.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### `Technologies Used`
+- React.js: JavaScript library for building user interfaces.
+- TypeScript: is used to provide static typing and enhance the development experience.
+- Vite : Vite is a fast build tool and development environment for projects.
+- Tailwind CSS: Utility-first CSS framework for responsive and customizable styling.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+For setup instructions and more details,You can learn more in the [Create React App Vite documentation](https://github.com/laststance/create-react-app-vite).
