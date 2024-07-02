@@ -17,4 +17,6 @@ emphasizes the super quality of their watches, presents special collections, and
 - Tailwind CSS: Utility-first CSS framework for responsive and customizable styling.
 
 
-For setup instructions and more details,You can learn more in the [Create React App Vite documentation](https://github.com/laststance/create-react-app-vite).
+Project Link: [Adidas Ecommerce](https://abdulmalek44.github.io/rolex)
+
+For setup instructions and more details,You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
